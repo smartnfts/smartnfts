@@ -1,0 +1,44 @@
+Uri: https://www.dropspace.art/
+File Name: C:\Downloaded Web Sites\www.dropspace.art\index.htm
+Content Type: text/html
+
+Uri: https://www.dropspace.art/assets/img/logo/logo.png
+File Name: C:\Downloaded Web Sites\www.dropspace.art\assets\img\logo\logo.png
+Content Type: image/png
+
+Uri: https://www.dropspace.art/favicon.png
+File Name: C:\Downloaded Web Sites\www.dropspace.art\favicon.png
+Content Type: image/png
+
+Uri: https://www.dropspace.art/manifest.json
+File Name: C:\Downloaded Web Sites\www.dropspace.art\manifest.json
+Content Type: application/json
+
+Uri: https://www.dropspace.art/static/css/main.dd3875df.css
+File Name: C:\Downloaded Web Sites\www.dropspace.art\static\css\main.dd3875df.css
+Content Type: text/css
+
+Uri: https://www.dropspace.art/static/js/main.6daa89e0.js
+File Name: C:\Downloaded Web Sites\www.dropspace.art\static\js\main.6daa89e0.js
+Content Type: application/javascript
+
+Uri: https://www.dropspace.art/static/media/Inter-VariableFont_slnt-wght.f958c681d7293226a319.ttf
+File Name: C:\Downloaded Web Sites\www.dropspace.art\static\media\Inter-VariableFont_slnt-wght.f958c681d7293226a319.ttf
+Content Type: font/ttf
+
+Uri: https://www.dropspace.art/static/media/RoxboroughCF-Regular.4358d96013922ed55289.woff
+File Name: C:\Downloaded Web Sites\www.dropspace.art\static\media\RoxboroughCF-Regular.4358d96013922ed55289.woff
+Content Type: font/woff
+
+Uri: https://www.dropspace.art/static/media/SpaceMono-Regular.ab58bedcb5ec0e553893.ttf
+File Name: C:\Downloaded Web Sites\www.dropspace.art\static\media\SpaceMono-Regular.ab58bedcb5ec0e553893.ttf
+Content Type: font/ttf
+
+Uri: https://www.dropspace.art/static/media/Suisse Intl.6a5f64fee8c653176b7d.ttf
+File Name: C:\Downloaded Web Sites\www.dropspace.art\static\media\Suisse Intl.6a5f64fee8c653176b7d.ttf
+Content Type: font/ttf
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-10799979992
+File Name: C:\Downloaded Web Sites\www.dropspace.art\gtag\js
+Content Type: application/javascript
+
